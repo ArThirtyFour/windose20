@@ -1,0 +1,3 @@
+# 🇺🇲 Engilsh Version: Soon...
+---
+# 🇷🇺 Russian Verison: [Here](https://github.com/ArThirtyFour/windose20/blob/main/README_RU.md)
