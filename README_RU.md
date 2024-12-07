@@ -34,7 +34,7 @@ _И после вставляем все эти параметры в настр
 * # 4.Пуск 
 
 > Открываем настройки виджета "Меню запуска приложения"
-> Меняем на  ["Эту иконку](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo.png) , м пишем "Start" 
+> Меняем на [Эту иконку](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo.png) ,  пишем "Start" 
 > на этом все.
 
 
