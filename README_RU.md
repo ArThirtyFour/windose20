@@ -9,7 +9,7 @@
 
 * # 1.Шрифт
 
->Для начала скаичваем [Zpix](https://github.com/ArThirtyFour/windose20/blob/main/fonts/zpix.ttf) , а потом ставим его системным шрифтом , затем перезагружемся и теперь он у нас везде стоит.
+>Для начала скаичваем [шрифт](https://github.com/ArThirtyFour/windose20/blob/main/fonts/zpix.ttf) , а потом ставим его системным шрифтом в настройках, затем перезагружемся.
 
 * # 2. Панель задач
 
@@ -47,7 +47,7 @@ _И после вставляем все эти параметры в настр
 > Применяем фон [Из этого файла](https://github.com/ArThirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](файл)
 
 * # 7. Os-Realses
->сохраняем файл с [Логотипом](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo_with_name.png) в удобное вам место.
+>Сохраняем файл с [Логотипом](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo_with_name.png) в удобное вам место.
 
 >Открываем /etc/os-release и меняем ЭТИ ПАРАМЕТРЫ:
 ```
@@ -57,5 +57,5 @@ HOME_URL="https://angelkawaii.com/"
 DOCUMENTATION_URL="https://angelkawaii.com/"
 LOGO="путь/до/вашего/файла/слоготипом"
 ```
-
+# Однако после обновление может слететь и придется перезаписывать.
 
