@@ -44,7 +44,7 @@ _И после вставляем все эти параметры в настр
 
 # 6.Терминал
 
-> Применяем фон [Из этого файла](https://github.com/ArThirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](файл)
+> Применяем фон [Из этого файла](https://github.com/ArThirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](https://github.com/ArThirtyFour/windose20/blob/main/fonts/PixelMplus10-Regular.ttf)
 
 # 7. Os-Realses
 >Сохраняем файл с [Логотипом](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo_with_name.png) в удобное вам место.
