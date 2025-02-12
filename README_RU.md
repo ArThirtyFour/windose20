@@ -1,5 +1,4 @@
 # Needy Girl Overdose Linux rice resources
-# In Engilsh : Soon..
 ---
 ## Данная конфиругация показывается на _KDE Plasma_ 
 
