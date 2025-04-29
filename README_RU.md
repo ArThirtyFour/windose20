@@ -39,8 +39,9 @@ _И после вставляем все эти параметры в настр
 
 # 5.Neofetch
 
->Внизу я приложу файл с конфигом , вы поменяйте в .config/neofetch/user.conf на [данный файл](https://github.com/ArThirtyFour/windose20/blob/main/config.conf)
+>Внизу я приложу файл с конфигом , вы поменяйте в .config/neofetch/user.conf на [данный файл](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.conf)
 
+> Также есть конфиги и для [Cava](https://github.com/ArThirtyFour/windose20/blob/main/configs/config) и [Fastfetch](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.jsonc)
 # 6.Терминал
 
 > Применяем фон [Из этого файла](https://github.com/ArThirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](https://github.com/ArThirtyFour/windose20/blob/main/fonts/PixelMplus10-Regular.ttf)
