@@ -40,7 +40,8 @@ _And then we insert all these parameters in the KDE settings_
 
 # 5.Neofetch
 
->I will attach the config file below, you change .config/neofetch/user.conf to [this file](https://github.com/ArThirtyFour/windose20/blob/main/config.conf)
+>I will attach the config file below, you change .config/neofetch/user.conf to [this file](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.conf)
+> There are also configs for [Cava](https://github.com/ArThirtyFour/windose20/blob/main/configs/config) and [Fastfetch](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.jsonc)
 
 # 6.Terminal
 
