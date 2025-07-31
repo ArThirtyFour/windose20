@@ -8,7 +8,7 @@
 
 # 1.Шрифт
 
->Для начала скаичваем [шрифт](https://github.com/ArThirtyFour/windose20/blob/main/fonts/zpix.ttf) , а потом ставим его системным шрифтом в настройках, затем перезагружемся.
+>Для начала скаичваем [шрифт](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/fonts/zpix.ttf) , а потом ставим его системным шрифтом в настройках, затем перезагружемся.
 
 # 2. Панель задач
 
@@ -24,7 +24,7 @@ __Курсор: [Здесь](https://www.pling.com/p/1700441/)__
 
 __Окна: [Здесь](https://www.pling.com/p/1700394/)__
 
-__Обои: [Здесь](https://github.com/ArThirtyFour/windose20/blob/main/pngs/bg.png)__
+__Обои: [Здесь](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/pngs/bg.png)__
 
 __Иконки: [Здесь](https://store.kde.org/p/1483944)__
 
@@ -33,21 +33,21 @@ _И после вставляем все эти параметры в настр
 # 4.Пуск 
 
 > Открываем настройки виджета "Меню запуска приложения"
-> Меняем на [Эту иконку](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo.png) ,  пишем "Start" 
+> Меняем на [Эту иконку](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/pngs/logo.png) ,  пишем "Start" 
 > на этом все.
 
 
 # 5.Neofetch
 
->Внизу я приложу файл с конфигом , вы поменяйте в .config/neofetch/user.conf на [данный файл](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.conf)
+>Внизу я приложу файл с конфигом , вы поменяйте в .config/neofetch/user.conf на [данный файл](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/configs/config.conf)
 
-> Также есть конфиги и для [Cava](https://github.com/ArThirtyFour/windose20/blob/main/configs/config) и [Fastfetch](https://github.com/ArThirtyFour/windose20/blob/main/configs/config.jsonc)
+> Также есть конфиги и для [Cava](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/configs/config) и [Fastfetch](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/configs/config.jsonc)
 # 6.Терминал
 
-> Применяем фон [Из этого файла](https://github.com/ArThirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](https://github.com/ArThirtyFour/windose20/blob/main/fonts/PixelMplus10-Regular.ttf)
+> Применяем фон [Из этого файла](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/pngs/JINEBG.png) в формате Черепицы , меняем цвет белого на "#6a00ff" и меняем шрифт в терминале на [этот](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/fonts/PixelMplus10-Regular.ttf)
 
 # 7. Os-Realses
->Сохраняем файл с [Логотипом](https://github.com/ArThirtyFour/windose20/blob/main/pngs/logo_with_name.png) в удобное вам место.
+>Сохраняем файл с [Логотипом](https://github.com/Ar4ikTrirtyFour/windose20/blob/main/pngs/logo_with_name.png) в удобное вам место.
 
 >Открываем /etc/os-release и меняем ЭТИ ПАРАМЕТРЫ:
 ```
